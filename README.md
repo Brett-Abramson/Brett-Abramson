@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gamer Buddy Finder**
 
-- 🌱 I’m currently learning **React, SASS**
+- 🌱 I’m currently learning **Using React and MaterialUI with Django REST and PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
