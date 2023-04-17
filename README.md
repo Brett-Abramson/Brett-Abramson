@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brett-abramson" alt="brett-abramson" /></a> </p>
 
-- 🔭 I’m currently working on **Gamer Buddy Finder**
+- 🔭 I’m currently working on **LAN Buddy and Online Gaming Buddy Finder**
 
 - 🌱 I’m currently learning **Using React and MaterialUI with Django REST and PostgreSQL**
 
