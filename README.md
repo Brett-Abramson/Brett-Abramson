@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brett-abramson" alt="brett-abramson" /></a> </p>
 
-- 🔭 I’m currently working on **LAN Buddy and Online Gaming Buddy Finder**
+- 🔭 I’m currently working on **wrapping up at General Assembly**
 
-- 🌱 I’m currently learning **Using React and MaterialUI with Django REST and PostgreSQL**
+- 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
