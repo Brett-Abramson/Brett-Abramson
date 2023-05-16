@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brett-abramson" alt="brett-abramson" /></a> </p>
 
-- 🔭 I’m currently working on **a new personal portfolio with Next.js and TailiwindCSS**
+- 🔭 I’m currently working as a **Participent of the TOP 2023 program** working with **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
